@@ -122,5 +122,8 @@
     margin-top: 1.5vh;
     border: 1px solid silver;
     font-size: .8vw;
-
+ }
+ .text button p{
+   
+    font-size: .8vw;
  }
